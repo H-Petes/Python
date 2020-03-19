@@ -1,0 +1,6 @@
+colour = input('ENTER YOUR FAVOURITE COLOUR: ')
+plural_noun = input('ENTER A PLURAL NOUN: ')
+celebrity = input('ENETER YOUR FAVOURITE CELEBRITY: ')
+print('Roses are ' + colour)
+print(plural_noun + ' are blue')
+print('I love ' + celebrity)
